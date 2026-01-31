@@ -1,0 +1,3 @@
+# Allow members of the "domain admins@labhome.page" group to run all commands
+# with the same privileges as the wheel group
+%domain\ admins@labhome.page ALL=(ALL) ALL
